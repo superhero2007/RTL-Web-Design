@@ -1,0 +1,93 @@
+.owl-carousel.hrcana-slider-part{direction:ltr;}
+.hrcana-slider-section{position:relative;zoom:1;margin-bottom:20px;}
+.owl-carousel .owl-item .item{margin:0 5px;}
+.slick-slide{width:100%; max-width:250px; margin:auto;}
+.slick-slide img{width:100%; height:auto; display:block;}
+.hrcana-slider-section .btn{position:absolute; top:50%; margin-top:-15px; color:#fff; padding:0; opacity:0.7;}
+.hrcana-slider-section .btn:hover{opacity:1;}
+.hrcana-slider-section .btn span{font-size:28px;}
+.hrcana-slider-section .btn.prev{left:8px;}
+.hrcana-slider-section .btn.next{right:8px;}
+.contact-pges .submit-btn{border: 1px solid #fff;color: #f8ae3f;padding:11px 15px 11px 50px;font-size: 24px;height:auto;width:auto;background-size:25px 33px;background-position: 15px center;margin-top:20px;}
+.breadcrumb{position:relative;zoom:1;}
+.breadcrumb .breadcrumb-list > li.selected, .breadcrumb .breadcrumb-list > li.selected > span {padding:0;}
+.breadcrumb.orange .breadcrumb-list > li > span {float:none;}
+.breadcrumb.orange .breadcrumb-list li{width:59%;}
+select#edit-submitted-project-type option{background-color:#111617;border: 1px solid #6d6c6d;}
+select#edit-submitted-project-type:focus, select#edit-submitted-project-type:active{outline:none;}
+select#edit-submitted-project-type{-webkit-appearance:none}
+.invisible-part{position:relative;zoom:1;margin-top: 50px;}
+#webform-client-form-26 .invisible-part select#edit-submitted-project-type{height:34px;line-height:34px;padding-top: 0;padding-bottom: 0;border: 1px solid #6d6c6d;}
+
+.invisible-part .btn-group{width:100%;}
+.invisible-part .btn-group>.btn{float:none;;border: 1px solid #6d6c6d;background:none;border-radius: 0;width: 100%;    color: #fff;font-size: 16px;}
+.invisible-part .btn-group .pull-left{float: right !important;}
+.invisible-part .btn .caret{float: left;margin-top: 8px;}
+.invisible-part .dropdown-menu{ width: 100%;background-color:transparent;    min-width: 100%;z-index: 2000;border: 1px solid #6d6c6d;border-top:0;border-radius:0;margin:0;-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;box-sizing: border-box;}
+.invisible-part li.selected {background: none;}
+.invisible-part .dropdown-menu > li.selected > a{color:#f29100}
+.invisible-part .dropdown-menu > li > a{display:block;cursor: pointer;font-size: 16px !important;}
+.invisible-part .dropdown-menu.inner{position: static;border: 0;padding: 0;margin: 0;-webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;}
+.invisible-part .dropdown-menu.inner .glyphicon{display:none;}
+.invisible-part li:focus{outline:0;}
+.invisible-part .dropdown-menu > li > a:focus{outline:0;}
+.submit-btn.contact-btn{margin-top:0;}
+.marg-top{margin-top:-270px;}
+@media only screen and (max-width:991px) {
+.marg-top{margin-top:-200px;}
+}
+@media (max-width: 767px){
+	.serch{width:100%;}
+	.navbar{z-index:1;padding:15px 0}
+	.navbar-collapse{ box-shadow:none;}
+	.collapse.navbar-collapse{  box-shadow:none;margin-top:0;}	
+	.nav.navbar-nav{    box-shadow: inset 0 1px 0 rgba(255,255,255,.1);margin:10px 0 0;}
+	.collapse.navbar-collapse{padding:0 15px;}
+	.navbar-inverse .navbar-collapse{border-color:transparent}
+	.thumbnail{ float: none;width: 100%;background: #9e1c30;text-align: center;}
+	.arrow{top: 0;    position: relative;  left: 0;display: block;right: 12px;margin-bottom: 10px;}
+	.navbar-nav > li > .dropdown-menu{ margin-bottom: 10px; padding: 0px 10px 0px 0px;}
+	.nav.navbar-nav a{ padding-right: 15px;}
+	.dropdown-menu.mega-dropdown-menu > li{ display: block;  background-position: right center;}
+	.home_page_news_box h2{background-color:transparent;}
+	
+	.breadcrumb-list > li span{float:right;}
+	.breadcrumb.orange .breadcrumb-list li{width:100%;}	
+	.breadcrumb .breadcrumb-list > li.selected{padding:0;}
+	.breadcrumb .breadcrumb-list > li.selected > span{padding:0 20px;}
+	.marg-top{margin-top:0px;}
+}
+@media (max-width: 479px){
+
+.radio label, .checkbox label{padding-right:6px;}
+}
+
+  @media only screen and (max-width : 480px) {
+	  	
+        .breadcrumb-list > li span {
+    
+    float: right;
+    
+}
+.svg {
+    width: 100%;
+
+    }
+	
+	.breadcrumb.orange .breadcrumb-list li {
+    background: #9a1c38 none repeat scroll 0 0;
+ 
+}
+
+a.kmjn-btn {
+    margin-left: 110px;
+}
+
+
+  }
